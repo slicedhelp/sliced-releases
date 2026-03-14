@@ -69,20 +69,3 @@ Você pode revogar o consentimento a qualquer momento conforme descrito na seç�
 
 Para dúvidas sobre privacidade: **slicedhelp@gmail.com**
 ```
-
-(fim do conteúdo)
-
----
-
-**Passo 4** — Role a página até o final, onde aparece **"Commit new file"**. No campo de mensagem escreva:
-```
-Adicionar Política de Privacidade
-```
-
-**Passo 5** — Clique no botão verde **"Commit new file"**
-
----
-
-**Passo 6** — Após criar o ficheiro, o link correto será automaticamente:
-```
-https://github.com/slicedhelp/sliced-releases/blob/main/PRIVACY_POLICY.md
